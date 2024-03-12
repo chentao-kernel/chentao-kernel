@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on HangZhou
 - 🌱 I’m currently focus on linux kernel、eBPF、network、etc...
 - 👯 C/C++ golang
-- 📫 How to reach me: chen277123057(wechat) chen.dylane@gmail(email)
+- 📫 How to reach me: chen277123057(wechat) chen.dylane@gmail.com(email)
 <!--
 **chentao-kernel/chentao-kernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
